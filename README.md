@@ -10,4 +10,4 @@ Completed during 2016-2018 in Bsc Information Systems
 
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-professional/Javascript-Breakout-Game">
-<a href="https://mogrady-professional.github.io/Javascript-Breakout-Game/index.html"><img src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a></p>
+<a href="https://mogrady-personal.github.io/Javascript-Breakout-Game/"><img src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a></p>
